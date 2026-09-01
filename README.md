@@ -28,7 +28,7 @@ Une ou deux phrases pour te présenter brièvement : ce que tu construis, ce qui
 ### 📊 Activité GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AirWanFR&show_icons=true&theme=tokyonight" alt="Stats GitHub" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=AirWanFR&repo=AirWanFR%2FVaineBot&description_lines_count=3&theme=buefy" alt="Stats GitHub" height="160" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=AirWanFR&layout=compact&langs_count=4&hide_values=true&theme=buefy" alt="Langages les plus utilisés" height="160" />
   
 </p>
