@@ -2,8 +2,6 @@
 
 > **Developpeur à temps perdu / Etudiant**
 
-Une ou deux phrases pour te présenter brièvement : ce que tu construis, ce qui t'anime au quotidien ou les technos sur lesquelles tu aimes expérimenter en ce moment.
-
 ---
 
 ### 🛠️ Stack & Technologies
