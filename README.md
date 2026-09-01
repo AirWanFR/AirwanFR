@@ -1,84 +1,36 @@
-# 👋 Salut — bienvenue sur mon profil GitHub !
+# 👋 Salut, moi c'est Vainerac !
 
-> Un README stylé et personnalisable. Réponds aux questions en bas (numérote tes réponses) et j'adapterai automatiquement le contenu.
+> **Developpeur à temps perdu / Etudiant
 
----
-
-## ✨ Qui suis‑je ?
-
-**Nom / pseudo :** TON_NOM
-
-**Tagline :** _Ex : Développeur·se full‑stack • Passionné·e de domotique et d'open‑source_
-
-**Bio courte :**
-> Une phrase ou deux pour te présenter — ce que tu fais, ce qui te motive.
+Une ou deux phrases pour te présenter brièvement : ce que tu construis, ce qui t'anime au quotidien ou les technos sur lesquelles tu aimes expérimenter en ce moment.
 
 ---
 
-## 🔭 Projets en cours
+### 🛠️ Stack & Technologies
 
-- **Projet-A** — Petite description (ex : application IoT pour maison connectée)
-- **Projet-B** — Petite description
-- **Open‑source** — [Lien vers projet](https://github.com/AirWanFR)
+**Langages** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-(Ajoute les noms et liens des projets que tu veux mettre en avant — je les formatterai proprement.)
-
----
-
-## 🛠 Compétences
-
-- Langages : JavaScript, Python, …
-- Frameworks & Outils : React, Node.js, Docker, …
-- Autres : CI/CD, Tests, DevOps, IA
-
-(Indique les compétences exactes et je générerai des badges.)
+**Outils & DevOps** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Contact
+### 🔭 Projets en avant
 
-- Email : ton.email@example.com
-- Site / Portfolio : https://exemple.com
-- Twitter / X : @tonhandle
-- LinkedIn : https://linkedin.com/in/tonprofil
+* **[Projet VaineBot](https://github.com/AirWanFR/VaineBot)** — Bot Discord qui est géré par une pipeline CI/CD.
 
-(Masques ou remplaces ce que tu ne veux pas partager.)
+...
 
 ---
 
-## 🎨 Style et médias
+### 📊 Activité GitHub
 
-Souhaites‑tu des badges GitHub (stats, languages), une carte de stats, ou des images/screenshots de tes projets ?
-
-- Badges possibles : GitHub stats, Top languages, Followers
-- Médias : GIF de démo, captures d'écran, vidéo YouTube
-
----
-
-## 📜 Licence
-
-Licence actuelle du dépôt : Aucune / À préciser.
-
-(Défini la licence si tu veux la montrer ici : MIT, Apache‑2.0, etc.)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AirWanFR&show_icons=true&theme=tokyonight" alt="Stats GitHub" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameAirWanFR&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" height="160" />
+</p>
 
 ---
-
-## ❓ Questions pour personnaliser ton README
-
-Réponds aux questions ci‑dessous en numérotant tes réponses (ex : "1. AirWan — 2. Dev full‑stack...") :
-
-1. Quel nom ou pseudo veux‑tu afficher ?
-2. Donne une tagline courte (1 phrase) et une bio (1–2 phrases).
-3. Donne 2–5 projets à mettre en avant (pour chacun : nom, courte description, URL si dispo).
-4. Quelles compétences/languages veux‑tu lister exactement (sépare par catégories : Langages / Frameworks / Outils) ?
-5. Quels contacts veux‑tu afficher (email, site, Twitter, LinkedIn) ? Donne les liens/handles exacts ou écris "aucun".
-6. Veux‑tu des badges (stats, languages, followers) ou des images/screenshots ? Si oui, lesquels.
-7. Préfères‑tu un style : minimal / coloré / ascii‑art / portfolio ?
-8. Quelle licence veux‑tu afficher pour ce dépôt (MIT / Apache‑2.0 / autre / aucune) ?
-9. Autres éléments à ajouter : CV, blog, disponibilité freelance, certifications, etc.?
-
----
-
-Quand tu répondras, je mettrai à jour automatiquement ce README pour le rendre final et stylé. 🚀
-
-Merci — prêt·e quand tu l'es !
+<sub>Dépôt sous licence [MIT](LICENSE).</sub>
